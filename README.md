@@ -1,5 +1,5 @@
 ### Olá Pessoal 
-Graduando Sistemas de Informação na UNIUBE, apaixonado por programação e segurança da informação. :computer:
+Graduando Ciências da Computação pela Universidade Anhembi Morumbi, apaixonado por programação e segurança da informação. :computer:
 
 <b>Desenvolvedor Front-End React:</b> React.js, Next.js, Typescript, Javascript, Redux, Styled Components, Sass, Atomic Design.
 
